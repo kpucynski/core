@@ -9144,6 +9144,18 @@
           ],
           "name": "Midea ccm15 AC Controller"
         },
+        "ccm18": {
+          "integration_type": "hub",
+          "config_flow": true,
+          "iot_class": "local_polling",
+          "categories": [
+            "climate.heat_pumps_air_conditioning"
+          ],
+          "connectivity": [
+            "modbus"
+          ],
+          "name": "Midea CCM18 Modbus Gateway"
+        },
         "midea": {
           "integration_type": "device",
           "config_flow": true,
