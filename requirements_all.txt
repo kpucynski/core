@@ -2504,6 +2504,7 @@ pymitv==1.4.3
 # homeassistant.components.mochad
 pymochad==0.2.0
 
+# homeassistant.components.ccm18
 # homeassistant.components.modbus
 pymodbus==3.13.1
 

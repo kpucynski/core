@@ -313,6 +313,8 @@ CLAUDE.md @home-assistant/core
 /tests/components/cast/ @emontnemery
 /homeassistant/components/ccm15/ @ocalvo
 /tests/components/ccm15/ @ocalvo
+/homeassistant/components/ccm18/ @kpucynski
+/tests/components/ccm18/ @kpucynski
 /homeassistant/components/centriconnect/ @gresrun
 /tests/components/centriconnect/ @gresrun
 /homeassistant/components/cert_expiry/ @jjlawren
